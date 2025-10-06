@@ -1,0 +1,52 @@
+body
+{
+    background-color:black;
+    font-family: "Zalando Sans", sans-serif;
+    display:flex;
+    justify-content: center;
+}
+
+.post-IG{
+  background-color:white;
+  width:450px;
+}
+
+nav{
+  display:flex;
+  justify-content:space-between;
+}
+
+ .info-user{
+   display:flex;
+   padding:0.5rem;
+   gap:0.5rem;
+   align-items:center;
+   }
+
+
+.info-htlm p{
+  margin: 0;
+}
+
+.fa-ellipsis-vertical{
+    padding: 0.5rem;
+}
+main img
+{
+  width:100%;
+}
+
+.iconos{
+  display:flex;
+  justify-content:space-between;
+  padding:0.5rem;
+}
+.iconos-izquierda{
+  display: flex;
+  gap:10px;
+}
+
+footer p{
+  padding:0.5rem;
+  text-align: justify;
+}
